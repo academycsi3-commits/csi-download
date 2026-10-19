@@ -3,11 +3,11 @@
   "editeur": "CSI Academy",
   "alertes": [
     {
-      "id": "2026-10-19-essai-notification",
+      "id": "2026-10-19-essai-2-notification",
       "date": "2026-10-19",
       "niveau": "moyen",
-      "titre": "ESSAI — ignorez cette alerte",
-      "resume": "Ceci est une alerte d'essai envoyée par CSI Academy pour vérifier que les notifications fonctionnent. Elle sera retirée sous peu.",
+      "titre": "ESSAI 2 — ignorez cette alerte",
+      "resume": "Deuxième alerte d'essai de CSI Academy pour vérifier que le téléphone reçoit les notifications tout seul, appli fermée. Elle sera retirée sous peu.",
       "reflexe": "Aucune action à faire.",
       "source": "CSI Academy",
       "lien": ""
