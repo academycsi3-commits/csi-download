@@ -1,4 +1,10 @@
-# Alerte Arnaque — données publiques
+# Alerte Arnaque — page de téléchargement et données publiques
+
+Page publique : https://academycsi3-commits.github.io/csi-download/alerte-arnaque/
+
+- `index.html` : la page de présentation et de téléchargement.
+- `AlerteArnaque.apk` : la dernière version de l'appli. Pour publier une nouvelle version, remplacez ce fichier et mettez à jour le numéro de version dans `index.html`.
+- Ne créez PAS de « Release » GitHub pour Alerte Arnaque dans ce dépôt : les Releases servent aux mises à jour de CSI Download.
 
 Fichiers lus par l'application Android **Alerte Arnaque** de CSI Academy.
 
