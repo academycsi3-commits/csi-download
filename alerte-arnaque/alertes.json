@@ -1,0 +1,46 @@
+{
+  "maj": "2026-10-19",
+  "editeur": "CSI Academy",
+  "alertes": [
+    {
+      "id": "2026-10-19-fausse-video-investissement",
+      "date": "2026-10-19",
+      "niveau": "haut",
+      "titre": "Fausse vidéo d'investissement avec une ministre",
+      "resume": "Une vidéo truquée par intelligence artificielle fait croire que la ministre de la Transition digitale présente une plateforme d'investissement soutenue par l'État, avec des gains promis en une semaine. La voix et l'image sont fausses.",
+      "reflexe": "Ne partagez pas la vidéo et n'investissez rien. Aucune autorité ne promet de gains rapides. Vérifiez toujours auprès des canaux officiels.",
+      "source": "BCLCC, relayé par Wakat Séra",
+      "lien": "https://www.wakatsera.com/burkina-une-fausse-annonce-dinvestissement-en-ligne-circule-actuellement-sur-les-reseaux-sociaux/"
+    },
+    {
+      "id": "2026-09-28-faux-kits-scolaires",
+      "date": "2026-09-28",
+      "niveau": "moyen",
+      "titre": "Fausses ventes de kits scolaires en ligne",
+      "resume": "De fausses pages Facebook proposent sacs, cahiers et gourdes à très bas prix, puis renvoient sur WhatsApp. Elles demandent un acompte ou le paiement complet par Mobile Money, puis disparaissent.",
+      "reflexe": "Méfiez-vous des prix anormalement bas. Ne payez pas d'avance un vendeur inconnu : payez à la livraison ou achetez en magasin.",
+      "source": "BCLCC, relayé par Wakat Séra",
+      "lien": "https://www.wakatsera.com/?p=149262"
+    },
+    {
+      "id": "2026-05-22-faux-agents-code-verification",
+      "date": "2026-05-22",
+      "niveau": "haut",
+      "titre": "Faux agents qui demandent le code de vérification",
+      "resume": "Des escrocs se présentent comme agents d'un opérateur pour une « mise à jour » du compte Mobile Money. Ils envoient un lien par SMS puis réclament le code reçu, qui leur permet de prendre le contrôle du compte et de le vider.",
+      "reflexe": "Ne cliquez sur aucun lien reçu par SMS ou WhatsApp. Ne donnez jamais un code reçu par SMS : aucun opérateur ne le demande par téléphone. En cas de doute, changez votre code secret et appelez votre opérateur.",
+      "source": "BCLCC, relayé par Wakat Séra",
+      "lien": "https://www.wakatsera.com/?p=140551"
+    },
+    {
+      "id": "2025-08-16-faux-recrutement-faso-mebo",
+      "date": "2025-08-16",
+      "niveau": "moyen",
+      "titre": "Faux recrutement « Faso Mêbo »",
+      "resume": "De faux profils Facebook se font passer pour le programme Faso Mêbo et envoient vers un faux formulaire qui réclame 4 000 F de « soutien patriotique » par Mobile Money.",
+      "reflexe": "Un recrutement officiel ne se paie pas. Fiez-vous uniquement aux sources officielles et évitez les liens suspects.",
+      "source": "BCLCC, relayé par Burkina24",
+      "lien": "https://burkina24.com/?p=413242"
+    }
+  ]
+}
