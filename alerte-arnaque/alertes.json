@@ -3,6 +3,16 @@
   "editeur": "CSI Academy",
   "alertes": [
     {
+      "id": "2026-10-19-essai-notification",
+      "date": "2026-10-19",
+      "niveau": "moyen",
+      "titre": "ESSAI — ignorez cette alerte",
+      "resume": "Ceci est une alerte d'essai envoyée par CSI Academy pour vérifier que les notifications fonctionnent. Elle sera retirée sous peu.",
+      "reflexe": "Aucune action à faire.",
+      "source": "CSI Academy",
+      "lien": ""
+    },
+    {
       "id": "2026-10-19-fausse-video-investissement",
       "date": "2026-10-19",
       "niveau": "haut",
