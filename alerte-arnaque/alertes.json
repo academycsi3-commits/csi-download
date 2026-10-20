@@ -3,16 +3,6 @@
   "editeur": "CSI Academy",
   "alertes": [
     {
-      "id": "2026-10-19-essai-2-notification",
-      "date": "2026-10-19",
-      "niveau": "moyen",
-      "titre": "ESSAI 2 — ignorez cette alerte",
-      "resume": "Deuxième alerte d'essai de CSI Academy pour vérifier que le téléphone reçoit les notifications tout seul, appli fermée. Elle sera retirée sous peu.",
-      "reflexe": "Aucune action à faire.",
-      "source": "CSI Academy",
-      "lien": ""
-    },
-    {
       "id": "2026-10-19-fausse-video-investissement",
       "date": "2026-10-19",
       "niveau": "haut",
