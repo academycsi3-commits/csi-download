@@ -17,3 +17,7 @@ Ne publiez ici que des informations vérifiées.
 (date + mots-clés), puis mettez à jour `maj`. Les téléphones la recevront en notification.
 
 **Ajouter un numéro** : ajoutez `{"num": "70123456", "type": "Faux dépôt", "op": "Orange"}` dans `numeros`.
+
+**Conseil du jour** : la liste `conseils` (30 conseils) tourne automatiquement, un par jour.
+Pour mettre un conseil en avant pendant quelques jours, remplissez `conseil_force` :
+`{"texte": "Votre conseil", "jusqu_au": "2026-10-31"}`. Laissez `texte` vide pour revenir à la rotation.

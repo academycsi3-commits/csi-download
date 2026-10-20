@@ -42,5 +42,41 @@
       "source": "BCLCC, relayé par Burkina24",
       "lien": "https://burkina24.com/?p=413242"
     }
-  ]
+  ],
+  "conseils": [
+    "Aucun agent Orange ou Moov ne vous demandera jamais votre code secret.",
+    "Avant de renvoyer un argent « reçu par erreur », vérifiez votre solde vous-même avec *144# ou *555#.",
+    "Un SMS de dépôt envoyé par un numéro à 8 chiffres est un faux.",
+    "On ne paie jamais de frais pour recevoir un gain, un prêt ou un emploi.",
+    "Un proche en détresse d'un nouveau numéro ? Rappelez-le sur son numéro habituel.",
+    "Ne donnez jamais à personne un code reçu par SMS : il sert à voler votre WhatsApp.",
+    "L'urgence est l'arme de l'escroc. Prenez toujours le temps de vérifier.",
+    "Ne composez jamais un code qu'un inconnu vous dicte au téléphone.",
+    "Un prix trop beau avec un acompte à payer d'avance : c'est un piège.",
+    "Un placement qui double votre argent en une semaine n'existe pas.",
+    "Ne cliquez pas sur un lien reçu par SMS pour « débloquer » votre compte.",
+    "Victime ? Appelez votre opérateur tout de suite pour tenter de bloquer la transaction.",
+    "Choisissez un mot secret avec votre famille contre l'arnaque au faux proche.",
+    "Activez la vérification en deux étapes dans WhatsApp.",
+    "Changez votre code secret Mobile Money si quelqu'un a pu le voir.",
+    "Ne prêtez pas votre téléphone déverrouillé à un inconnu, même pour « un appel rapide ».",
+    "Gardez les captures d'écran d'une arnaque : elles servent de preuve pour la plainte.",
+    "Un vrai recrutement ne vous demande jamais d'argent pour déposer un dossier.",
+    "Une vidéo d'une personnalité qui promet des gains peut être truquée par l'intelligence artificielle.",
+    "Achetez en ligne en payant à la livraison, après avoir vu l'article.",
+    "Méfiez-vous d'un « agent » qui vous demande de rester en ligne pendant qu'il vous guide.",
+    "Un lien raccourci reçu d'un inconnu ? Ne l'ouvrez pas.",
+    "Ne laissez pas votre pièce d'identité à un point de vente sans raison officielle.",
+    "Expliquez ces arnaques à vos parents âgés : ce sont les cibles préférées des escrocs.",
+    "Une page Facebook récente avec des prix très bas est souvent une fausse boutique.",
+    "Un prêt « sans garantie » qui réclame des frais avant le versement est une arnaque.",
+    "Mettez un code de verrouillage sur votre téléphone, différent de votre code Mobile Money.",
+    "Personne ne peut multiplier votre argent. Les « marabouts de l'argent » sont des escrocs.",
+    "Si un ami vous demande de l'argent par message, appelez-le pour vérifier que c'est bien lui.",
+    "Signalez les arnaques à la BCLCC sur la plateforme Alerte-BCLCC : vous protégez les autres."
+  ],
+  "conseil_force": {
+    "texte": "",
+    "jusqu_au": ""
+  }
 }
